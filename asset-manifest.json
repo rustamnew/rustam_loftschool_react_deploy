@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rustam_loftschool_react_deploy/static/css/main.43a27cd6.chunk.css",
+    "main.js": "/rustam_loftschool_react_deploy/static/js/main.13e70eda.chunk.js",
+    "main.js.map": "/rustam_loftschool_react_deploy/static/js/main.13e70eda.chunk.js.map",
+    "runtime-main.js": "/rustam_loftschool_react_deploy/static/js/runtime-main.e06b61db.js",
+    "runtime-main.js.map": "/rustam_loftschool_react_deploy/static/js/runtime-main.e06b61db.js.map",
+    "static/js/2.09f070e2.chunk.js": "/rustam_loftschool_react_deploy/static/js/2.09f070e2.chunk.js",
+    "static/js/2.09f070e2.chunk.js.map": "/rustam_loftschool_react_deploy/static/js/2.09f070e2.chunk.js.map",
+    "static/js/3.2dd80282.chunk.js": "/rustam_loftschool_react_deploy/static/js/3.2dd80282.chunk.js",
+    "static/js/3.2dd80282.chunk.js.map": "/rustam_loftschool_react_deploy/static/js/3.2dd80282.chunk.js.map",
+    "index.html": "/rustam_loftschool_react_deploy/index.html",
+    "static/css/main.43a27cd6.chunk.css.map": "/rustam_loftschool_react_deploy/static/css/main.43a27cd6.chunk.css.map",
+    "static/js/2.09f070e2.chunk.js.LICENSE.txt": "/rustam_loftschool_react_deploy/static/js/2.09f070e2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/rustam_loftschool_react_deploy/static/media/backgroundMap.6f03adef.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e06b61db.js",
+    "static/js/2.09f070e2.chunk.js",
+    "static/css/main.43a27cd6.chunk.css",
+    "static/js/main.13e70eda.chunk.js"
+  ]
+}
